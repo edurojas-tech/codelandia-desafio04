@@ -5,5 +5,5 @@
 </p>
 
 <h3>Preview:</h3>
-![image](https://github.com/edurojasDev/codelandia-desafio04/assets/61126545/67c3cb2d-c702-4309-918a-3836df9b7931)
+<img src="https://github.com/edurojasDev/codelandia-desafio04/assets/61126545/67c3cb2d-c702-4309-918a-3836df9b7931">
 
