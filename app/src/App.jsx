@@ -1,8 +1,13 @@
+import "./app.css"
+import BlocoImg from "./components/blockImagem/component"
+import BlocoForm from "./components/blockForm/component"
+
 function App() {
   return (
     <>
-      <div>
-        <h1>TELA DE LOGIN</h1>
+      <div className="App">
+        <BlocoImg/>
+        <BlocoForm />
       </div>
     </>
   )

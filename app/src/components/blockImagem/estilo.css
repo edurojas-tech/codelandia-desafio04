@@ -1,0 +1,18 @@
+.blocoImg {
+  width: 50%;
+  background-color: #F7FAFC;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blocoImg__img {
+  box-shadow: 4px 4px 4px #0000;
+}
+
+
+@media (max-width: 800px){
+  .blocoImg {
+    display: none;
+  }
+}
