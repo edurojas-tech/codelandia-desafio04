@@ -5,4 +5,5 @@
 </p>
 
 <h3>Preview:</h3>
-![image](https://github.com/edurojasDev/codelandia-desafio04/assets/61126545/b76058a5-44ae-475f-8b12-d2e1bd1bb3b4)
+![image](https://github.com/edurojasDev/codelandia-desafio04/assets/61126545/67c3cb2d-c702-4309-918a-3836df9b7931)
+
